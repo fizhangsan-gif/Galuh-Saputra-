@@ -1,0 +1,8 @@
+{
+  "name": "Remix Housebets Sportsbook Prototype",
+  "description": "Interactive sports betting clickable prototype featuring Sports Home, Live In-Play, Football Competitions, Match Page, and Bet Slip / My Bets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
